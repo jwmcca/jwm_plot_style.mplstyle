@@ -1,0 +1,11 @@
+axes.titlesize : 9
+axes.labelsize : 9
+lines.linewidth : 1
+xtick.labelsize : 9
+ytick.labelsize : 9
+axes.labelsize: 9
+font.size: 9
+figure.titlesize: 9
+axes.linewidth: 1
+axes.spines.top: False
+axes.spines.right: False
