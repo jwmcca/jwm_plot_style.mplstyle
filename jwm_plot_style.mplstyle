@@ -11,3 +11,5 @@ axes.spines.right: False
 legend.frameon: False
 legend.title_fontsize: 9
 legend.fontsize: 9
+font.family:  sans-serif
+font.sans-serif: Arial
